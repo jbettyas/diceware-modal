@@ -1,11 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
 .App {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.row {
+  padding: 20px 0px 20px 0px;
+}
+
+.MDBFooter {
+  background-color: #eeeeee;
 }
 
 .jumbo {
-  background-color: #4385F5;
+  color: white;
+  background-color: #5bc0de;
 }
 
 .Jumbotron {
-  background-color: #4385F5;
+  background-color: #5bc0de;
 }
